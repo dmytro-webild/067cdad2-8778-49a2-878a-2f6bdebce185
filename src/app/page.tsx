@@ -66,7 +66,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=5j8v00"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=5j8v00&_wi=1"
       mediaAnimation="blur-reveal"
       avatars={[
         {
@@ -203,7 +203,7 @@ export default function LandingPage() {
           quote: "Fresh Digital transformed our product architecture. Absolutely professional.",
           tag: "Development",
           avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=h7nqak",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=5j8v00",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=5j8v00&_wi=2",
           imageAlt: "professional headshot executive",
         },
         {
@@ -236,7 +236,7 @@ export default function LandingPage() {
           quote: "Incredible communication and execution throughout the entire development cycle.",
           tag: "Development",
           avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=zhgoyc",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=h7nqak",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=h7nqak&_wi=1",
           imageAlt: "professional headshot executive",
         },
         {
@@ -247,7 +247,7 @@ export default function LandingPage() {
           quote: "They understand business goals, not just code. Fantastic partner.",
           tag: "Design",
           avatarSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=zhgoyc",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=h7nqak",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/default/no-image.jpg?id=h7nqak&_wi=2",
           imageAlt: "professional headshot executive",
         },
       ]}
